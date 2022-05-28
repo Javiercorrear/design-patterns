@@ -1,0 +1,27 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "A design patterns quick reference snippet collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run:file": "tsc-node $1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Javiercorrear/design-patterns.git"
+  },
+  "keywords": [
+    "design-patterns"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Javiercorrear/design-patterns/issues"
+  },
+  "homepage": "https://github.com/Javiercorrear/design-patterns#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.7.2"
+  }
+}
